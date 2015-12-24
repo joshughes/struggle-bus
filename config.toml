@@ -1,0 +1,28 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+
+baseurl= "http://drivingthestrugglebus.com/"
+languageCode= "en-us"
+title= "Struggling through software"
+paginate = 5
+disqusShortname = "drivingthestrugglebus"
+copyright = "All rights reserved - 2015"
+canonifyurls = true
+
+[params]
+  description = "this is my description"
+  cover = "images/cover.jpg"
+  author = "Joseph Hughes"
+  authorlocation = "Denver, Colarado"
+  authorwebsite = "https://github.com/joshughes/"
+  bio= "A software engineer "
+  logo = "images/logo.png"
+  # googleAnalyticsUserID = "UA-79101-12"
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  RSSLink = "http://feeds.feedburner.com/..."
+  githubName = "joshughes"
+  twitterName = "jjhughes57"
+  # facebookName = ""
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = true
